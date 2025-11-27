@@ -4,7 +4,7 @@
 Predict which bank customers are likely to leave (churn) using historical customer data.
 
 ## Dataset
-- **Source:** Churn Modelling Dataset  
+- **Source:** [Churn Modelling Dataset](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)
 - **Entries:** 10,000 customers  
 - **Features:** CreditScore, Geography, Gender, Age, Tenure, Balance, NumOfProducts, HasCrCard, IsActiveMember, EstimatedSalary  
 - **Target:** Exited (1 = churn, 0 = stayed)
